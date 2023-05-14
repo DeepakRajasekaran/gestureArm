@@ -9,10 +9,10 @@ This project enables users to control an InMoov robotic arm using their hand ges
 
 To install and set up the project on your local machine, follow these steps:
 
-1. Install Python 3.8.10 on your system.
+1. Install [Python 3.8.10](https://www.python.org/downloads/release/python-3810/) on your system.
 2. Clone this repository to your local machine.
 3. Navigate to the project directory.
-4. Install the required dependencies by running: `pip install -r requirements.txt`.
+4. Install the required dependencies by running: `pip install mediapipe`.
 
 ## Usage
 
