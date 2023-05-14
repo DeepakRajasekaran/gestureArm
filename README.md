@@ -26,7 +26,7 @@ To use the InMoov Robotic Arm Control, follow these guidelines:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE-MIT) & [GNU v3.0](LICENSE-GNU).
 
 You may choose to use the project under either the terms of the MIT License or the GPL. Please refer to the respective license files for more details.
 
