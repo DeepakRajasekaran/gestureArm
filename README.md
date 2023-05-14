@@ -41,5 +41,5 @@ This project makes use of the following libraries and resources:
 - [OpenCV](https://opencv.org/) - Open Source Computer Vision Library.
 - [cvzone](https://github.com/cvzone/cvzone) - A Python library for computer vision applications.
 - [Mediapipe](https://mediapipe.dev/) - A cross-platform framework for building multimodal applied machine learning pipelines.
-- [InMoov](http://inmoov.fr/) - Open source 3D-printed life-size robot. I have already added the STL's in this repository, If you want complete Inmoov parts get it from this site.
+- [InMoov](http://inmoov.fr/) - Open source 3D-printed life-size robot.
 
