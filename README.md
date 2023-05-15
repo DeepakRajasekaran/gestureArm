@@ -28,7 +28,7 @@ To use the InMoov Robotic Arm Control, follow these guidelines:
 
 This project is licensed under the [MIT License](LICENSE-MIT).
 
-You may choose to use the project under the terms of the MIT License. Please refer to the respective license files for more details.
+You may choose to use the project under the terms of the MIT License. Please refer to the respective license file for more details.
 
 ## Support
 
