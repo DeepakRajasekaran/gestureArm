@@ -1,9 +1,14 @@
 # gestureArm
 Control the InMoov Robotic Arm using hand gestures captured through a webcam. This project utilizes computer vision techniques to track hand movements and translate them into control signals for the robotic arm.
 
+<hr>
+
+
 ## 📝 Description
 
 This project enables users to control an InMoov robotic arm using their hand gestures. It leverages the OpenCV library for hand tracking and detection, allowing real-time recognition of hand movements. By mapping specific hand gestures to corresponding robotic arm actions, users can control the arm's fingers and perform various predefined actions.
+
+<hr>
 
 ## 🔧 Installation
 
@@ -13,6 +18,8 @@ To install and set up the project on your local machine, follow these steps:
 2. Clone this repository to your local machine.
 3. Navigate to the project directory.
 4. Install the required dependencies by running: `pip install mediapipe`.
+
+<hr>
 
 ## 📊 Usage
 
@@ -24,15 +31,21 @@ To use the InMoov Robotic Arm Control, follow these guidelines:
 4. Perform hand gestures in front of the webcam to control the robotic arm.
 5. See the console output for information about the recognized gestures and corresponding arm actions.
 
+<hr>
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE-MIT).
 
 You may choose to use the project under the terms of the MIT License. Please refer to the respective license file for more details.
 
+<hr>
+
 ## 🤝 Support
 
 If you encounter any issues or have questions, feel free to create an issue in the [issue tracker](https://github.com/DeepakRajasekaran/gestureArm/issues/new/choose).
+
+<hr>
 
 ## 🙏 Acknowledgements
 
